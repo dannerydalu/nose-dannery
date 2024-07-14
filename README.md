@@ -1,5 +1,5 @@
 # titulo piola
-es práctica no más
+Primer curso practico de git
 
 ## descripción
 Esto es un repo de dannery
